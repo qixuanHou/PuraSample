@@ -1,0 +1,7 @@
+#Wed Nov 23 21:11:43 EST 2016
+base.0=/Users/houqixuan/Desktop/AndroidSQLite1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4fce98c8345d11d3eb277cb8a56b82847727926c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/houqixuan/Desktop/AndroidSQLite1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1daf86029356cfb7187676c4f07dca726b9add6b/classes.dex
+base.1=/Users/houqixuan/Desktop/AndroidSQLite1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1daf86029356cfb7187676c4f07dca726b9add6b
+file.0=/Users/houqixuan/Desktop/AndroidSQLite1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4fce98c8345d11d3eb277cb8a56b82847727926c/classes.dex

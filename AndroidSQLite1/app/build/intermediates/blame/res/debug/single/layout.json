@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/houqixuan/Desktop/AndroidSQLite1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/houqixuan/Desktop/AndroidSQLite1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/houqixuan/Desktop/AndroidSQLite1/app/build/intermediates/res/merged/debug/layout/fragment_add_emp.xml",
+        "source": "/Users/houqixuan/Desktop/AndroidSQLite1/app/src/main/res/layout/fragment_add_emp.xml"
+    },
+    {
+        "merged": "/Users/houqixuan/Desktop/AndroidSQLite1/app/build/intermediates/res/merged/debug/layout/fragment_emp_list.xml",
+        "source": "/Users/houqixuan/Desktop/AndroidSQLite1/app/src/main/res/layout/fragment_emp_list.xml"
+    },
+    {
+        "merged": "/Users/houqixuan/Desktop/AndroidSQLite1/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/houqixuan/Desktop/AndroidSQLite1/app/src/main/res/layout/list_item.xml"
+    }
+]
