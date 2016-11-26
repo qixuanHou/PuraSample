@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Nov 25 19:09:30 EST 2016
+1.base=/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/res/resources-debug.ap_/res/layout-land/main.xml
+1.file=/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.set=ANDROID_RESOURCE
+2.base=/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+0.file=/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+4.base=/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/res/resources-debug.ap_

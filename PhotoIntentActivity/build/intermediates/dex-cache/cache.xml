@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d4fb08fe9b93a64ce085683e86ef25a210c0733a">
+        <dex dex="/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aa5321632f56a0ab0a89f09e2fd3b98cf14c9a51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a2606b3b0e6414953c8d3de2e4c4e230e7ef2e27">
+        <dex dex="/Users/houqixuan/AndroidStudioProjects/PhotoIntentActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_59c53f2c5c79a6aaf29e73ce4788acd92ad08757/classes.dex" />
+    </item>
+
+</items>
